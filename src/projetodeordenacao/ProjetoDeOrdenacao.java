@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
 
 /**
  *
- * @Fabricio Luiz 119123048 e Sunner Lima 11919299  
+ * @Fabricio Luiz souza 119123048 e Sunner Lima 11919299  
  */
 public class ProjetoDeOrdenacao {
 
